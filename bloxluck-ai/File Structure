@@ -1,0 +1,6 @@
+bloxluck-ai/
+├── main.py               # Main application logic
+├── ai_model.py           # AI model training/prediction
+├── gui.py                # Modern UI implementation
+├── requirements.txt      # Dependencies
+└── trained_model.h5      # Pre-trained AI model
